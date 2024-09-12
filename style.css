@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+      padding: 5px
+}
+header{
+    background-color: mediumturquoise ;
+}
+header a{
+    color:black
+
+   }
+   img{
+    border: 2px solid black
+   }
+   h1{
+    text-align: center;
+    color: #0066CC
+       }
+    footer{
+        background-color: burlywood;
+        color: black
+    }
+    nav a{
+       text-decoration: none; 
+      color: black;
+     border: 3px solid black;
+       
+           }
+
+    .icon{
+        border: 5px solid black;
+        background-color: #0066CC;
+    
+    }
+    main p{
+        font-family: sans-serif;
+        font-size: 20px;
+        }
+    img{
+       border: 5px solid black; 
+ 
+       
+    }
+    h2 {
+        background-color: aqua;
+    }
+    a{
+       border: 2px solid black;
+       color: black; 
+       text-decoration: none; 
+       padding: 3px;
+    }
+
